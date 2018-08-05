@@ -1,0 +1,6 @@
+The min/max times recorded after many executions:
+
+136.70 seconds <= total_elapsed <= 142.74 seconds
+2.0 min 16.70 sec <= divmod(total_elapsed,60) <= 2.0 min 22.74 sec
+
+total_elapsed += end - start
